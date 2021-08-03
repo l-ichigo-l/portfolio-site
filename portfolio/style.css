@@ -150,7 +150,7 @@ body {
 }
 
 .project-image {
-  margin: 0 0 24px;
+  margin: 40px 0 24px;
   text-align: center;
 }
 
@@ -172,12 +172,11 @@ body {
 .page-footer {
   padding: 40px 0;
   background-color: #00417d;
-  color: #ffffff;
 }
 
 .page-footer a {
   margin-left: 56px;
-  color: inherit;
+  color: #ffffff;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
