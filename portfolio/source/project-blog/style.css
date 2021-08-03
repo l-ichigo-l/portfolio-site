@@ -145,25 +145,20 @@ i {
 }
 
 figure {
-  margin-left: 0;
-  margin-right: 0;
-  text-align: center;
-}
+  display: block; 
+  text-align: center; 
+  font-style: italic; 
+  padding-bottom: 8px;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  margin-top: 0; 
+  margin-bottom: 5px; 
+  color: #666; 
+ }
 
 figure img {
   vertical-align: middle;
   border: 8px solid rgb(202, 224, 248);
-}
-
-figcaption {
-  width: 502px;
-  padding-bottom: 8px;
-  font-size: 12px;
-  letter-spacing: 0.02em;
-  font-style: italic;
-  text-align: center;
-  margin-left: 36.39%;
-  background-color: rgb(202, 224, 248);
 }
 
 .pagination a {
